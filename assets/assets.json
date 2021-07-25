@@ -1,0 +1,34 @@
+{
+  "image": {
+      "logo": "assets/img/logo.png",
+      "background": "assets/img/bgpattern.png",
+      "menu_goback": "assets/img/menu_goback.png",
+      "howto": "assets/img/howto.png",
+      "pipe": "assets/img/pipe.png",
+      "gameover": "assets/img/gameover.png"
+  },
+  "audio": {
+    "btnclick" : {
+        "wav" : "assets/audio/btnclick.wav"
+    },
+    "btnover" : {
+        "wav" : "assets/audio/btnover.wav"
+    },
+    "powup1" : {
+        "wav" : "assets/audio/powup1.wav"
+    },
+    "powup2" : {
+        "wav" : "assets/audio/powup2.wav"
+    },
+    "powup3" : {
+        "wav" : "assets/audio/powup3.wav"
+    },
+    "hit" : {
+        "wav" : "assets/audio/hit.wav"
+    }
+  },
+  "multiatlas": {
+    "menu_buttons": ["assets/sprites/menu_buttons.json", "assets/sprites"],
+    "bird": ["assets/sprites/bird.json", "assets/sprites"]
+  }
+}
